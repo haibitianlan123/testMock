@@ -1,0 +1,21 @@
+[
+	{
+		"description":"这是我的第一个Mock",
+		"request":{
+			"uri":"/demo"
+		},
+		"response":{
+			"text":"hello,Mock"
+		}
+	},
+	{
+		"description":"get方式",
+		"request":{
+			"uri":"/getdemo"
+			"method":"get"
+		},
+		"response":{
+			"text":"这是一个没有参数的请求"
+		}	
+	}
+]
